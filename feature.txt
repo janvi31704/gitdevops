@@ -1,2 +1,3 @@
 This is my new feature
 Practising Git staging
+Temporary practice
